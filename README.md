@@ -7,7 +7,7 @@ A simple and interactive Password Strength Checker built using HTML, CSS, and Ja
 
 ## Features
 
-- ### Real-time Strength Indicator:
+### - Real-time Strength Indicator:
 
 #### Weak: 
 Password length less than 6 characters.
