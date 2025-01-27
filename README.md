@@ -46,7 +46,7 @@ For the structure of the app.
 
 ## File Structure
 
-- ### 1. index.html
+### 1. index.html
 
 Defines the app's structure, including:
 
@@ -55,7 +55,7 @@ Input field for entering passwords.
 Eye icon button for toggling password visibility.
 
 
-- ### 2. style.css
+### 2. style.css
 
 Provides styling for:
 
@@ -64,7 +64,7 @@ The responsive and visually appealing layout.
 Smooth hover effects and button design.
 
 
-- ### 3. script.js
+### 3. script.js
 
 Handles the functionality:
 
